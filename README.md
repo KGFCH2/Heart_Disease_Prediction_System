@@ -317,14 +317,6 @@ probability = model.predict_proba(X_scaled)[0][1]  # Confidence %
 
 ---
 
-## 📚 Documentation
-
-- 📖 **BEST_MODEL.md** - Detailed model explanation, step-by-step process, and architecture
-- ✨ **FINAL_OVERVIEW.md** - Visual summary and quick reference
-- ⚖️ **[LICENSE](LICENSE)** - License information and contributors
-
----
-
 ## 💾 Files Reference
 
 | 📄 File | 📝 Purpose |
@@ -340,9 +332,7 @@ probability = model.predict_proba(X_scaled)[0][1]  # Confidence %
 ## 📞 Support & Resources
 
 For questions or issues:
-1. 📖 Check **BEST_MODEL.md** for detailed explanations
-2. ✨ Visit **FINAL_OVERVIEW.md** for quick reference
-3. ⚖️ Read **[LICENSE](LICENSE)** for contributor information
+1. ⚖️ Read **[LICENSE](LICENSE)** for contributor information
 
 ---
 
@@ -368,7 +358,7 @@ For questions or issues:
 
 ---
 
-**Last Updated**: November 8, 2025  
+**Last Updated**: November 9, 2025  
 **Status**: ✅ Production Ready  
 **Version**: 1.0 (XGBoost Final)  
 **License**: MIT
